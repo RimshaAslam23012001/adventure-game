@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let enemies = ["Skeleton", "Zombie", "Assassin", "Warrior"];
 let maxEnemyHealth = 75;
